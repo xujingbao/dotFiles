@@ -10,14 +10,13 @@ ZSH_THEME="robbyrussell"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ls="ls -G"
+alias ls="ls -F"
 alias mv="mv -i"
-alias cd..="cd .."
-alias cd...="cd ../.."
-alias ..="cd .."
+alias cp="cp -i"
+alias rm="rm -i"
 
 # Set to this to use case-sensitive completion
-# CASE_SENSITIVE="true"
+CASE_SENSITIVE="true"
 
 # Comment this out to disable bi-weekly auto-update checks
 # DISABLE_AUTO_UPDATE="true"
