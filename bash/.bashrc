@@ -8,3 +8,8 @@ exportPS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$ '
 exportTERM=xterm-color
 
 alias ls="ls -G"
+alias mv="mv -i"
+alias cd..="cd .."
+alias cd...="cd ../.."
+alias ..="cd .."
+
