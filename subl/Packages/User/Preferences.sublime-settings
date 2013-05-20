@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Tomorrow Aqua.tmTheme",
+	"font_size": 18,
+	"font_face":"monaco",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Flatland Dark.sublime-theme"
+}
